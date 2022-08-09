@@ -15,7 +15,7 @@
     <Name>ProSheets</Name>
     <Application>Revit</Application>
     <PluginPrice>Free</PluginPrice>
-    <PublishStatus>1</PublishStatus>
+    <PublishStatus>0</PublishStatus>
     <Url>https://diroots.com/</Url>
     <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.ProSheets.Releases/releases</GitHubApiPath>
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/ProSheets/icon.png</PictureURL>
