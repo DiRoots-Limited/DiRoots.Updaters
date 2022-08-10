@@ -23,4 +23,16 @@
     <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/README.md</DescriptionURL>
     <RegistryPath>ProSheets</RegistryPath>
   </App>
+    <App appID="DiRoots.Stellar">
+    <Name>DiRoots Stellar</Name>
+    <Application>Web App</Application>
+    <PluginPrice>Free</PluginPrice>
+    <PublishStatus>0</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.Stellar.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRoots.Stellar/icon.png</PictureURL>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.Stellar.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/README.md</DescriptionURL>
+    <RegistryPath></RegistryPath>
+  </App>
 </updates>
