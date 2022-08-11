@@ -33,6 +33,6 @@
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRoots.Stellar/icon.png</PictureURL>
     <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.Stellar.Releases</ShortDescriptionURL>
     <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/README.md</DescriptionURL>
-    <RegistryPath></RegistryPath>
+    <RegistryPath>Stellar</RegistryPath>
   </App>
 </updates>
