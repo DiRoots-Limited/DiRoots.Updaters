@@ -24,11 +24,11 @@
     <RegistryPath>ProSheets</RegistryPath>
   </App>
     <App appID="DiRoots.Stellar">
-    <Name>DiRoots Stellar</Name>
+    <Name>DiStellar</Name>
     <Application>Web App</Application>
     <PluginPrice>Free</PluginPrice>
     <PublishStatus>0</PublishStatus>
-    <Url>http://eepurl.com/gercRT</Url>
+    <Url>https://distellar.diroots.com/</Url>
     <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.Stellar.Releases/releases</GitHubApiPath>
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRoots.Stellar/icon.png</PictureURL>
     <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.Stellar.Releases</ShortDescriptionURL>
