@@ -30,7 +30,7 @@
     <PublishStatus>1</PublishStatus>
     <Url>https://diroots.com/</Url>
     <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiStem.Releases/releases</GitHubApiPath>
-    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/ProSheets/icon.png</PictureURL>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiStem/icon.png</PictureURL>
     <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiStem.Releases</ShortDescriptionURL>
     <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/README.md</DescriptionURL>
     <RegistryPath>DiStem</RegistryPath>
