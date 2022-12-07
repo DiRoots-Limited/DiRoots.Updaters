@@ -23,6 +23,18 @@
     <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/README.md</DescriptionURL>
     <RegistryPath>ProSheets</RegistryPath>
   </App>
+    <App appID="DiRoots.DiStem">
+    <Name>DiStem</Name>
+    <Application>Revit</Application>
+    <PluginPrice>Trial</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiStem.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/ProSheets/icon.png</PictureURL>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiStem.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/README.md</DescriptionURL>
+    <RegistryPath>DiStem</RegistryPath>
+  </App>
     <App appID="DiRoots.Stellar">
     <Name>DiStellar</Name>
     <Application>Web App</Application>
