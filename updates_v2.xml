@@ -35,7 +35,6 @@
     <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/README.md</DescriptionURL>
     <RegistryPath>DiStem</RegistryPath>
   </App>
-  </App>
     <App appID="DiRootsOne.AutoCAD">
     <Name>DiRootsOne AutoCAD</Name>
     <Application>AutoCAD</Application>
