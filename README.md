@@ -10,3 +10,6 @@ Uses updates.xml
 
 ### DiRoots App Manager version > 1.1.0
 Uses updates_v2.xml
+
+### DiRoots App Manager version > 1.1.1
+Uses updates_v3.xml
