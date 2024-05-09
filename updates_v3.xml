@@ -1,0 +1,62 @@
+<updates>
+  <App appID="DiRoots.One">
+    <Name>DiRootsOne</Name>
+    <Application>Revit</Application>
+    <PluginPrice>Free</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/revit-plugins/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/icon.png</PictureURL>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.md</DescriptionURL>
+    <RegistryPath>DiRoots.One</RegistryPath>
+  </App>
+  <App appID="DiRoots.ProSheets">
+    <Name>ProSheets</Name>
+    <Application>Revit</Application>
+    <PluginPrice>Free</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.ProSheets.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/ProSheets/icon.png</PictureURL>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.ProSheets.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/README.md</DescriptionURL>
+    <RegistryPath>ProSheets</RegistryPath>
+  </App>
+    <App appID="DiRoots.DiStem">
+    <Name>DiStem</Name>
+    <Application>Revit</Application>
+    <PluginPrice>Trial</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiStem.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiStem/icon.png</PictureURL>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiStem.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/README.md</DescriptionURL>
+    <RegistryPath>DiStem</RegistryPath>
+  </App>
+      <App appID="DiRoots.Stellar">
+    <Name>DiStellar</Name>
+    <Application>Web App</Application>
+    <PluginPrice>Free</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://distellar.diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.Stellar.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRoots.Stellar/icon.png</PictureURL>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.Stellar.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/README.md</DescriptionURL>
+    <RegistryPath>Stellar</RegistryPath>
+      </App>
+    <App appID="DiRootsOne.AutoCAD">
+    <Name>DiRootsOne AutoCAD</Name>
+    <Application>AutoCAD</Application>
+    <PluginPrice>Trial</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/icon.png</PictureURL>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRootsOne.AutoCAD.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/README.md</DescriptionURL>
+    <RegistryPath>DiRootsOne.CAD</RegistryPath>
+  </App>
+</updates>
