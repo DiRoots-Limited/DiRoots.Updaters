@@ -41,7 +41,7 @@
       <App appID="DiRoots.IDS4Revit">
     <Name>IDS4Revit</Name>
     <Application>Revit</Application>
-    <PluginPrice>Freemium</PluginPrice>
+    <PluginPrice>Premium</PluginPrice>
     <PublishStatus>1</PublishStatus>
     <Url>https://diroots.com/</Url>
     <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.IDS4Revit.Releases/releases</GitHubApiPath>
