@@ -38,6 +38,19 @@
     <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/README.md</DescriptionURL>
     <RegistryPath>DiStem</RegistryPath>
   </App>
+      <App appID="DiRoots.IDS4Revit">
+    <Name>IDS4Revit</Name>
+    <Application>Revit</Application>
+    <PluginPrice>Freemium</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.IDS4Revit.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/IDS4Revit/icon.png</PictureURL>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/IDS4Revit/icon.png</PictureURLDarkTheme>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.IDS4Revit.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/README.md</DescriptionURL>
+    <RegistryPath>IDS4Revit</RegistryPath>
+  </App>
       <App appID="DiRoots.Stellar">
     <Name>DiStellar</Name>
     <Application>Web App</Application>
