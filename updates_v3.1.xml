@@ -46,7 +46,7 @@
     <Url>https://diroots.com/</Url>
     <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.IDS4Revit.Releases/releases</GitHubApiPath>
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/IDS4Revit/icon.png</PictureURL>
-    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/IDS4Revit/icon.png</PictureURLDarkTheme>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/IDS4Revit/IDS4Revit-Dark-Theme_150x150.png</PictureURLDarkTheme>
     <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.IDS4Revit.Releases</ShortDescriptionURL>
     <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/README.md</DescriptionURL>
     <RegistryPath>IDS4Revit</RegistryPath>
