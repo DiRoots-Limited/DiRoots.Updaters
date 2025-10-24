@@ -55,6 +55,20 @@
     <UserGuideUrl>https://docs.ids4revit.diroots.com/</UserGuideUrl>
     <RegistryPath>IDS4Revit</RegistryPath>
   </App>
+  <App appID="DiRoots.DiCivil">
+    <Name>DiCivil</Name>
+    <Application>Civil 3D</Application>
+    <PluginPrice>Trial</PluginPrice>
+    <PublishStatus>0</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.Civil3D.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiCivil/icon.png</PictureURL>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiCivil/DiCivil-Dark-Theme_150x150.png</PictureURLDarkTheme>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.Civil3D.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Civil3D.Releases/master/README.md</DescriptionURL>
+    <UserGuideUrl>https://docs.dicivil.diroots.com/</UserGuideUrl>
+    <RegistryPath>C3D Products</RegistryPath>
+  </App>
       <App appID="DiRoots.Stellar">
     <Name>DiStellar</Name>
     <Application>Web App</Application>
