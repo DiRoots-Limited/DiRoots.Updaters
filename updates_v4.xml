@@ -59,7 +59,7 @@
     <Name>DiCivil</Name>
     <Application>Civil 3D</Application>
     <PluginPrice>Trial</PluginPrice>
-    <PublishStatus>0</PublishStatus>
+    <PublishStatus>1</PublishStatus>
     <Url>https://diroots.com/</Url>
     <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.Civil3D.Releases/releases</GitHubApiPath>
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiCivil/icon.png</PictureURL>
