@@ -55,19 +55,33 @@
     <UserGuideUrl>https://docs.ids4revit.diroots.com/</UserGuideUrl>
     <RegistryPath>IDS4Revit</RegistryPath>
   </App>
-  <App appID="DiRoots.DiCivil">
-    <Name>DiCivil</Name>
+  <App appID="DiRoots.DiCivilDesign">
+    <Name>DiCivil Design</Name>
     <Application>Civil 3D</Application>
     <PluginPrice>Trial</PluginPrice>
     <PublishStatus>1</PublishStatus>
     <Url>https://diroots.com/</Url>
-    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.Civil3D.Releases/releases</GitHubApiPath>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/releases</GitHubApiPath>
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiCivil/icon.png</PictureURL>
     <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiCivil/DiCivil-Dark-Theme_150x150.png</PictureURLDarkTheme>
-    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.Civil3D.Releases</ShortDescriptionURL>
-    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Civil3D.Releases/master/README.md</DescriptionURL>
-    <UserGuideUrl>https://docs.dicivil.diroots.com/</UserGuideUrl>
-    <RegistryPath>C3D Products</RegistryPath>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiCivil.Design.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/README.md</DescriptionURL>
+    <UserGuideUrl>https://docs.dicivil-design.diroots.com/</UserGuideUrl>
+    <RegistryPath>DiCivil Design</RegistryPath>
+  </App>
+  <App appID="DiRoots.DiCivilManage">
+    <Name>DiCivil Manage</Name>
+    <Application>Civil 3D</Application>
+    <PluginPrice>Trial</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiCivil/icon.png</PictureURL>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiCivil/DiCivil-Dark-Theme_150x150.png</PictureURLDarkTheme>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases</ShortDescriptionURL>
+    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/README.md</DescriptionURL>
+    <UserGuideUrl>https://docs.dicivil-manage.diroots.com/</UserGuideUrl>
+    <RegistryPath>DiCivil Manage</RegistryPath>
   </App>
       <App appID="DiRoots.Stellar">
     <Name>DiStellar</Name>
