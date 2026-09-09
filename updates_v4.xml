@@ -172,7 +172,47 @@
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/IDS4Revit/icon.png</PictureURL>
     <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/IDS4Revit/IDS4Revit-Dark-Theme_150x150.png</PictureURLDarkTheme>
     <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.IDS4Revit.Releases</ShortDescriptionURL>
-    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/README.md</DescriptionURL>
+  <DescriptionURLs>
+  <DescriptionURL culture="en-US">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.en-US.md
+  </DescriptionURL>
+  <DescriptionURL culture="cs-CZ">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.cs-CZ.md
+  </DescriptionURL>
+  <DescriptionURL culture="de-DE">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.de-DE.md
+  </DescriptionURL>
+  <DescriptionURL culture="es-ES">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.es-ES.md
+  </DescriptionURL>
+  <DescriptionURL culture="fr-FR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.fr-FR.md
+  </DescriptionURL>
+  <DescriptionURL culture="it-IT">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.it-IT.md
+  </DescriptionURL>
+  <DescriptionURL culture="ja-JP">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.ja-JP.md
+  </DescriptionURL>
+  <DescriptionURL culture="ko-KR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.ko-KR.md
+  </DescriptionURL>
+  <DescriptionURL culture="pl-PL">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.pl-PL.md
+  </DescriptionURL>
+  <DescriptionURL culture="pt-BR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.pt-BR.md
+  </DescriptionURL>
+  <DescriptionURL culture="ru-RU">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.ru-RU.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hans">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.zh-Hans.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hant">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/feat/README_Localization/Localization/README.zh-Hant.md
+  </DescriptionURL>
+</DescriptionURLs>
     <UserGuideUrl>https://docs.ids4revit.diroots.com/</UserGuideUrl>
     <RegistryPath>IDS4Revit</RegistryPath>
   </App>
