@@ -9,17 +9,47 @@
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/icon.png</PictureURL>
     <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/DiRootsOne-Dark-Theme_150x150.png</PictureURLDarkTheme>
     <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases</ShortDescriptionURL>
-    <DescriptionURLs>
-    <DescriptionURL culture="en-US">
-      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.md
-    </DescriptionURL>
-    <DescriptionURL culture="de-DE">
-      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.de-DE.md
-    </DescriptionURL>
-    <DescriptionURL culture="fr-FR">
-      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.fr-FR.md
-    </DescriptionURL>
-    </DescriptionURLs>
+   <DescriptionURLs>
+  <DescriptionURL culture="en-US">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.md
+  </DescriptionURL>
+  <DescriptionURL culture="cs-CZ">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.cs-CZ.md
+  </DescriptionURL>
+  <DescriptionURL culture="de-DE">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.de-DE.md
+  </DescriptionURL>
+  <DescriptionURL culture="es-ES">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.es-ES.md
+  </DescriptionURL>
+  <DescriptionURL culture="fr-FR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.fr-FR.md
+  </DescriptionURL>
+  <DescriptionURL culture="it-IT">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.it-IT.md
+  </DescriptionURL>
+  <DescriptionURL culture="ja-JP">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.ja-JP.md
+  </DescriptionURL>
+  <DescriptionURL culture="ko-KR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.ko-KR.md
+  </DescriptionURL>
+  <DescriptionURL culture="pl-PL">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.pl-PL.md
+  </DescriptionURL>
+  <DescriptionURL culture="pt-BR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.pt-BR.md
+  </DescriptionURL>
+  <DescriptionURL culture="ru-RU">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.ru-RU.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hans">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.zh-Hans.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hant">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.zh-Hant.md
+  </DescriptionURL>
+</DescriptionURLs>
     
     <UserGuideUrl>https://docs.dirootsone.diroots.com/</UserGuideUrl>
     <RegistryPath>DiRoots.One</RegistryPath>
