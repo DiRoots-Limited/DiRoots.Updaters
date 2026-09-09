@@ -11,13 +11,13 @@
     <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases</ShortDescriptionURL>
     <DescriptionURLs>
     <DescriptionURL culture="en-US">
-      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.md
+      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.md
     </DescriptionURL>
     <DescriptionURL culture="de-DE">
-      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.de-DE.md
+      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.de-DE.md
     </DescriptionURL>
     <DescriptionURL culture="fr-FR">
-      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.fr-FR.md
+      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/feat/README_Localization/README.fr-FR.md
     </DescriptionURL>
     </DescriptionURLs>
     
