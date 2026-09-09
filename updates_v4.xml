@@ -9,7 +9,18 @@
     <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/icon.png</PictureURL>
     <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/DiRootsOne-Dark-Theme_150x150.png</PictureURLDarkTheme>
     <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases</ShortDescriptionURL>
-    <DescriptionURL>https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.md</DescriptionURL>
+    <DescriptionURLs>
+    <DescriptionURL culture="en-US">
+      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.md
+    </DescriptionURL>
+       <DescriptionURL culture="de-DE">
+      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.de-DE.md
+    </DescriptionURL>
+       </DescriptionURL>
+       <DescriptionURL culture="fr-FR">
+      https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.fr-FR.md
+    </DescriptionURL>
+    </DescriptionURLs>
     <UserGuideUrl>https://docs.dirootsone.diroots.com/</UserGuideUrl>
     <RegistryPath>DiRoots.One</RegistryPath>
   </App>
