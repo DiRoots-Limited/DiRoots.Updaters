@@ -13,14 +13,14 @@
     <DescriptionURL culture="en-US">
       https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.md
     </DescriptionURL>
-       <DescriptionURL culture="de-DE">
+    <DescriptionURL culture="de-DE">
       https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.de-DE.md
     </DescriptionURL>
-       </DescriptionURL>
-       <DescriptionURL culture="fr-FR">
+    <DescriptionURL culture="fr-FR">
       https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/README.fr-FR.md
     </DescriptionURL>
     </DescriptionURLs>
+    
     <UserGuideUrl>https://docs.dirootsone.diroots.com/</UserGuideUrl>
     <RegistryPath>DiRoots.One</RegistryPath>
   </App>
