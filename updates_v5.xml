@@ -1,0 +1,435 @@
+<updates>
+  <App appID="DiRoots.One">
+    <Name>DiRootsOne</Name>
+    <Application>Revit</Application>
+    <PluginPrice>Freemium</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/revit-plugins/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/icon.png</PictureURL>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/DiRootsOne-Dark-Theme_150x150.png</PictureURLDarkTheme>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.One.Releases</ShortDescriptionURL>
+   <DescriptionURLs>
+  <DescriptionURL culture="en-US">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.en-US.md
+  </DescriptionURL>
+  <DescriptionURL culture="cs-CZ">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.cs-CZ.md
+  </DescriptionURL>
+  <DescriptionURL culture="de-DE">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.de-DE.md
+  </DescriptionURL>
+  <DescriptionURL culture="es-ES">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.es-ES.md
+  </DescriptionURL>
+  <DescriptionURL culture="fr-FR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.fr-FR.md
+  </DescriptionURL>
+  <DescriptionURL culture="it-IT">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.it-IT.md
+  </DescriptionURL>
+  <DescriptionURL culture="ja-JP">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.ja-JP.md
+  </DescriptionURL>
+  <DescriptionURL culture="ko-KR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.ko-KR.md
+  </DescriptionURL>
+  <DescriptionURL culture="pl-PL">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.pl-PL.md
+  </DescriptionURL>
+  <DescriptionURL culture="pt-BR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.pt-BR.md
+  </DescriptionURL>
+  <DescriptionURL culture="ru-RU">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.ru-RU.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hans">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.zh-Hans.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hant">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.One.Releases/master/Localization/README.zh-Hant.md
+  </DescriptionURL>
+</DescriptionURLs>
+    
+    <UserGuideUrl>https://docs.dirootsone.diroots.com/</UserGuideUrl>
+    <RegistryPath>DiRoots.One</RegistryPath>
+  </App>
+  <App appID="DiRoots.ProSheets">
+    <Name>ProSheets</Name>
+    <Application>Revit</Application>
+    <PluginPrice>Freemium</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.ProSheets.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/ProSheets/ProSheets-Light-Theme_150x150.png</PictureURL>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/ProSheets/ProSheets-Dark-Theme_150x150.png</PictureURLDarkTheme>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.ProSheets.Releases</ShortDescriptionURL>
+    <DescriptionURLs>
+  <DescriptionURL culture="en-US">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.en-US.md
+  </DescriptionURL>
+  <DescriptionURL culture="cs-CZ">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.cs-CZ.md
+  </DescriptionURL>
+  <DescriptionURL culture="de-DE">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.de-DE.md
+  </DescriptionURL>
+  <DescriptionURL culture="es-ES">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.es-ES.md
+  </DescriptionURL>
+  <DescriptionURL culture="fr-FR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.fr-FR.md
+  </DescriptionURL>
+  <DescriptionURL culture="it-IT">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.it-IT.md
+  </DescriptionURL>
+  <DescriptionURL culture="ja-JP">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.ja-JP.md
+  </DescriptionURL>
+  <DescriptionURL culture="ko-KR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.ko-KR.md
+  </DescriptionURL>
+  <DescriptionURL culture="pl-PL">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.pl-PL.md
+  </DescriptionURL>
+  <DescriptionURL culture="pt-BR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.pt-BR.md
+  </DescriptionURL>
+  <DescriptionURL culture="ru-RU">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.ru-RU.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hans">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.zh-Hans.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hant">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.ProSheets.Releases/master/Localization/README.zh-Hant.md
+  </DescriptionURL>
+</DescriptionURLs>
+    <UserGuideUrl>https://docs.prosheets.diroots.com/</UserGuideUrl>
+    <RegistryPath>ProSheets</RegistryPath>
+  </App>
+    <App appID="DiRoots.DiStem">
+    <Name>DiStem</Name>
+    <Application>Revit</Application>
+    <PluginPrice>Premium</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiStem.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiStem/icon.png</PictureURL>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiStem/icon.png</PictureURLDarkTheme>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiStem.Releases</ShortDescriptionURL>
+      <DescriptionURLs>
+  <DescriptionURL culture="en-US">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.en-US.md
+  </DescriptionURL>
+  <DescriptionURL culture="cs-CZ">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.cs-CZ.md
+  </DescriptionURL>
+  <DescriptionURL culture="de-DE">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.de-DE.md
+  </DescriptionURL>
+  <DescriptionURL culture="es-ES">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.es-ES.md
+  </DescriptionURL>
+  <DescriptionURL culture="fr-FR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.fr-FR.md
+  </DescriptionURL>
+  <DescriptionURL culture="it-IT">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.it-IT.md
+  </DescriptionURL>
+  <DescriptionURL culture="ja-JP">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.ja-JP.md
+  </DescriptionURL>
+  <DescriptionURL culture="ko-KR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.ko-KR.md
+  </DescriptionURL>
+  <DescriptionURL culture="pl-PL">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.pl-PL.md
+  </DescriptionURL>
+  <DescriptionURL culture="pt-BR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.pt-BR.md
+  </DescriptionURL>
+  <DescriptionURL culture="ru-RU">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.ru-RU.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hans">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.zh-Hans.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hant">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiStem.Releases/master/Localization/README.zh-Hant.md
+  </DescriptionURL>
+</DescriptionURLs>
+    <UserGuideUrl>https://docs.distem.diroots.com/</UserGuideUrl>
+    <RegistryPath>DiStem</RegistryPath>
+  </App>
+      <App appID="DiRoots.IDS4Revit">
+    <Name>IDS4Revit</Name>
+    <Application>Revit</Application>
+    <PluginPrice>Premium</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.IDS4Revit.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/IDS4Revit/icon.png</PictureURL>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/IDS4Revit/IDS4Revit-Dark-Theme_150x150.png</PictureURLDarkTheme>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.IDS4Revit.Releases</ShortDescriptionURL>
+  <DescriptionURLs>
+  <DescriptionURL culture="en-US">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.en-US.md
+  </DescriptionURL>
+  <DescriptionURL culture="cs-CZ">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.cs-CZ.md
+  </DescriptionURL>
+  <DescriptionURL culture="de-DE">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.de-DE.md
+  </DescriptionURL>
+  <DescriptionURL culture="es-ES">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.es-ES.md
+  </DescriptionURL>
+  <DescriptionURL culture="fr-FR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.fr-FR.md
+  </DescriptionURL>
+  <DescriptionURL culture="it-IT">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.it-IT.md
+  </DescriptionURL>
+  <DescriptionURL culture="ja-JP">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.ja-JP.md
+  </DescriptionURL>
+  <DescriptionURL culture="ko-KR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.ko-KR.md
+  </DescriptionURL>
+  <DescriptionURL culture="pl-PL">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.pl-PL.md
+  </DescriptionURL>
+  <DescriptionURL culture="pt-BR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.pt-BR.md
+  </DescriptionURL>
+  <DescriptionURL culture="ru-RU">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.ru-RU.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hans">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.zh-Hans.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hant">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.IDS4Revit.Releases/master/Localization/README.zh-Hant.md
+  </DescriptionURL>
+</DescriptionURLs>
+    <UserGuideUrl>https://docs.ids4revit.diroots.com/</UserGuideUrl>
+    <RegistryPath>IDS4Revit</RegistryPath>
+  </App>
+  <App appID="DiRoots.DiCivilDesign">
+    <Name>DiCivil Design</Name>
+    <Application>Civil 3D</Application>
+    <PluginPrice>Trial</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiCivil/icon.png</PictureURL>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiCivil/DiCivil-Dark-Theme_150x150.png</PictureURLDarkTheme>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiCivil.Design.Releases</ShortDescriptionURL>
+  <DescriptionURLs>
+  <DescriptionURL culture="en-US">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.en-US.md
+  </DescriptionURL>
+  <DescriptionURL culture="cs-CZ">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.cs-CZ.md
+  </DescriptionURL>
+  <DescriptionURL culture="de-DE">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.de-DE.md
+  </DescriptionURL>
+  <DescriptionURL culture="es-ES">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.es-ES.md
+  </DescriptionURL>
+  <DescriptionURL culture="fr-FR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.fr-FR.md
+  </DescriptionURL>
+  <DescriptionURL culture="it-IT">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.it-IT.md
+  </DescriptionURL>
+  <DescriptionURL culture="ja-JP">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.ja-JP.md
+  </DescriptionURL>
+  <DescriptionURL culture="ko-KR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.ko-KR.md
+  </DescriptionURL>
+  <DescriptionURL culture="pl-PL">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.pl-PL.md
+  </DescriptionURL>
+  <DescriptionURL culture="pt-BR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.pt-BR.md
+  </DescriptionURL>
+  <DescriptionURL culture="ru-RU">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.ru-RU.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hans">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.zh-Hans.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hant">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Design.Releases/master/Localization/README.zh-Hant.md
+  </DescriptionURL>
+</DescriptionURLs>
+    <UserGuideUrl>https://docs.dicivil-design.diroots.com/</UserGuideUrl>
+    <RegistryPath>DiCivil Design</RegistryPath>
+  </App>
+  <App appID="DiRoots.DiCivilManage">
+    <Name>DiCivil Manage</Name>
+    <Application>Civil 3D</Application>
+    <PluginPrice>Trial</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiCivil/icon.png</PictureURL>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiCivil/DiCivil-Dark-Theme_150x150.png</PictureURLDarkTheme>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases</ShortDescriptionURL>
+ <DescriptionURLs>
+  <DescriptionURL culture="en-US">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.en-US.md
+  </DescriptionURL>
+  <DescriptionURL culture="cs-CZ">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.cs-CZ.md
+  </DescriptionURL>
+  <DescriptionURL culture="de-DE">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.de-DE.md
+  </DescriptionURL>
+  <DescriptionURL culture="es-ES">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.es-ES.md
+  </DescriptionURL>
+  <DescriptionURL culture="fr-FR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.fr-FR.md
+  </DescriptionURL>
+  <DescriptionURL culture="it-IT">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.it-IT.md
+  </DescriptionURL>
+  <DescriptionURL culture="ja-JP">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.ja-JP.md
+  </DescriptionURL>
+  <DescriptionURL culture="ko-KR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.ko-KR.md
+  </DescriptionURL>
+  <DescriptionURL culture="pl-PL">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.pl-PL.md
+  </DescriptionURL>
+  <DescriptionURL culture="pt-BR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.pt-BR.md
+  </DescriptionURL>
+  <DescriptionURL culture="ru-RU">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.ru-RU.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hans">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.zh-Hans.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hant">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.DiCivil.Manage.Releases/master/Localization/README.zh-Hant.md
+  </DescriptionURL>
+</DescriptionURLs>
+    <UserGuideUrl>https://docs.dicivil-manage.diroots.com/</UserGuideUrl>
+    <RegistryPath>DiCivil Manage</RegistryPath>
+  </App>
+      <App appID="DiRoots.Stellar">
+    <Name>DiStellar</Name>
+    <Application>Web App</Application>
+    <PluginPrice>Free</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://distellar.diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRoots.Stellar.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRoots.Stellar/icon.png</PictureURL>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRoots.Stellar/icon.png</PictureURLDarkTheme>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRoots.Stellar.Releases</ShortDescriptionURL>
+   <DescriptionURLs>
+  <DescriptionURL culture="en-US">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.en-US.md
+  </DescriptionURL>
+  <DescriptionURL culture="cs-CZ">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.cs-CZ.md
+  </DescriptionURL>
+  <DescriptionURL culture="de-DE">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.de-DE.md
+  </DescriptionURL>
+  <DescriptionURL culture="es-ES">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.es-ES.md
+  </DescriptionURL>
+  <DescriptionURL culture="fr-FR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.fr-FR.md
+  </DescriptionURL>
+  <DescriptionURL culture="it-IT">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.it-IT.md
+  </DescriptionURL>
+  <DescriptionURL culture="ja-JP">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.ja-JP.md
+  </DescriptionURL>
+  <DescriptionURL culture="ko-KR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.ko-KR.md
+  </DescriptionURL>
+  <DescriptionURL culture="pl-PL">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.pl-PL.md
+  </DescriptionURL>
+  <DescriptionURL culture="pt-BR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.pt-BR.md
+  </DescriptionURL>
+  <DescriptionURL culture="ru-RU">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.ru-RU.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hans">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.zh-Hans.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hant">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRoots.Stellar.Releases/master/Localization/README.zh-Hant.md
+  </DescriptionURL>
+</DescriptionURLs>
+    <UserGuideUrl></UserGuideUrl>
+    <RegistryPath>Stellar</RegistryPath>
+      </App>
+    <App appID="DiRootsOne.AutoCAD">
+    <Name>DiRootsOne AutoCAD</Name>
+    <Application>AutoCAD</Application>
+    <PluginPrice>Trial</PluginPrice>
+    <PublishStatus>1</PublishStatus>
+    <Url>https://diroots.com/</Url>
+    <GitHubApiPath>https://api.github.com/repos/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/releases</GitHubApiPath>
+    <PictureURL>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/icon.png</PictureURL>
+    <PictureURLDarkTheme>https://github.com/DiRoots-Limited/DiRoots.Updaters/raw/master/DiRoots.Installers/DiRootsOne/DiRootsOne-Dark-Theme_150x150.png</PictureURLDarkTheme>
+    <ShortDescriptionURL>https://api.github.com/repos/DiRoots-Limited/DiRootsOne.AutoCAD.Releases</ShortDescriptionURL>
+  <DescriptionURLs>
+  <DescriptionURL culture="en-US">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.en-US.md
+  </DescriptionURL>
+  <DescriptionURL culture="cs-CZ">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.cs-CZ.md
+  </DescriptionURL>
+  <DescriptionURL culture="de-DE">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.de-DE.md
+  </DescriptionURL>
+  <DescriptionURL culture="es-ES">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.es-ES.md
+  </DescriptionURL>
+  <DescriptionURL culture="fr-FR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.fr-FR.md
+  </DescriptionURL>
+  <DescriptionURL culture="it-IT">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.it-IT.md
+  </DescriptionURL>
+  <DescriptionURL culture="ja-JP">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.ja-JP.md
+  </DescriptionURL>
+  <DescriptionURL culture="ko-KR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.ko-KR.md
+  </DescriptionURL>
+  <DescriptionURL culture="pl-PL">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.pl-PL.md
+  </DescriptionURL>
+  <DescriptionURL culture="pt-BR">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.pt-BR.md
+  </DescriptionURL>
+  <DescriptionURL culture="ru-RU">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.ru-RU.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hans">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.zh-Hans.md
+  </DescriptionURL>
+  <DescriptionURL culture="zh-Hant">
+    https://raw.githubusercontent.com/DiRoots-Limited/DiRootsOne.AutoCAD.Releases/master/Localization/README.zh-Hant.md
+  </DescriptionURL>
+</DescriptionURLs>
+    <UserGuideUrl></UserGuideUrl>
+    <RegistryPath>DiRootsOne.CAD</RegistryPath>
+  </App>
+</updates>
