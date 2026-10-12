@@ -5,7 +5,7 @@ Application property can be set to "Revit","Civil3D" and "Autocad" only. If it i
 
 ## ⚠️ Updates.xml versioning ⚠️
 
-### DiRoots App Manager version > 2.9.0
+### DiRoots App Manager version > 2.2.0
 - Uses [updates_v5.xml](https://github.com/DiRoots-Limited/DiRoots.Updaters/blob/master/updates_v5.xml)
 
 ### DiRoots App Manager version > 2.0.0
